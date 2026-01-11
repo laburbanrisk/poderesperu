@@ -34,8 +34,8 @@ const App = () => {
     window.scrollTo(0, 0);
   };
 
-  const whatsappNumber = "51987654321";
-  const whatsappLink = `https://wa.me/${whatsappNumber}?text=Hola,%20vi%20su%20web%20y%20quiero%20tramitar%20un%20poder.`;
+const whatsappNumber = "393444124465";
+const whatsappLink = `https://wa.me/${whatsappNumber}?text=Hola,%20vi%20PoderesPeru.com%20y%20quiero%20tramitar%20un%20poder.`;
 
   // --- COMPONENTES REUTILIZABLES CON NUEVO ESTILO ---
 
